@@ -96,7 +96,7 @@ section.content-section {
 @media screen and (max-width: 768px) {
     .table, form {
         width: 50%;
-        display: block;
+        display: flexbox;
         box-sizing: border-box;
     }
 }
